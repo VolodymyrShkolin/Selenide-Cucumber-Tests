@@ -1,4 +1,4 @@
-package typeReactSteps;
+package steps;
 
 import com.codeborne.selenide.WebDriverRunner;
 import io.cucumber.java.After;

@@ -1,4 +1,4 @@
-package typeReactSteps;
+package steps;
 
 import com.codeborne.selenide.ElementsCollection;
 import com.codeborne.selenide.SelenideElement;
